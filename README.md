@@ -32,7 +32,7 @@ Required components:
 The circuit is very simple, I have used the GPIO pins D23, D22, D21 & D19 to control the 4 relays.
 And the GPIO pins D13, D12, D14 & D27 are connected with switches, and GPIO D33, D32, D15 & D4 are connected with a 4-step selector switch to control the 4 relays manually.
 I used the INPUT_PULLUP function in Arduino IDE instead of the pull-up resistors.
-IR remote receiver (TSOP1838) connected with D35. And the DHT11 sensor is connected to D34.
+IR remote receiver (TSOP1838) connected with D35. And the DHT11 sensor is connected to RX2 (GPIO-16).
 I have used a 5V mobile charger to supply the smart relay module.
 
 Please take proper safety precautions while working with high voltage.
