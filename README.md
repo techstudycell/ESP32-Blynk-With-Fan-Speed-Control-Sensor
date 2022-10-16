@@ -4,7 +4,7 @@ In this IoT project, I have shown how to make IoT-based Smart Home Automation us
 So, you can easily make this home automation project at home just by using an ESP32 and relay module. Or you can also use a custom-designed PCB for this project.
 
 ## Tutorial Video on IoT Project using ESP32 & Blynk
-In the tutorial video, I have shown all the steps to make this Blynk home automation system.
+https://youtu.be/vBq3Ozrwj-4
 
 ## This Blynk ESP32 control smart relay has the following features:
 
